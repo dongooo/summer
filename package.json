@@ -1,0 +1,9 @@
+{
+  "name": "summer",
+  "version": "v1.0.1",
+  "description": "common lib use typescript",
+  "main": "index.js",
+  "repository": "https://github.com/dongooo/summer.git",
+  "author": "dongooo <dongooo@yahoo.com>",
+  "license": "MIT"
+}
